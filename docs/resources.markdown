@@ -15,12 +15,12 @@ permalink: /research-resources/
 </div>
 
 <div>
-  {% for resource in site.research-resources reversed %}
+ 
     <a href="{{ resource.url }}">
       &bull; {{ resource.title }}
     </a>
     <div style="margin-top:30px"></div>
-  {% endfor %}
+ 
 </div>
 
 <ul>
