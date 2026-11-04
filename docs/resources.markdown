@@ -197,5 +197,21 @@ permalink: /research-resources/
     </div>
 
   {% endfor %}
+<div style="margin-bottom:30px">
+    <a href="https://multimorbidity-research-university-of-leeds.shinyapps.io/postMI_CIF/" target="_blank">
+      &bull; <strong>Health outcomes after myocardial infarction: a population study of 56 million people in England</strong>
+    </a>
+    <p style="margin-top:5px;margin-left:15px">
+      The interactive heat maps based on this work can be explored here
+    </p>
+  </div>
 
+  <div style="margin-bottom:30px">
+    <a href="https://multimorbidity-research-university-of-leeds.shinyapps.io/postMI_CIF_spatial/" target="_blank">
+      &bull; <strong>Cumulative Incidence by Sub Integrated Care Board</strong>
+    </a>
+    <p style="margin-top:5px;margin-left:15px">
+      The interactive maps based on this work can be explored here.
+    </p>
+  </div>
 </div>
