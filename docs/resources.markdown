@@ -10,17 +10,7 @@ permalink: /research-resources/
 
 ## Publication Resources
 
-<div style='margin-top:10px;margin-bottom:10px'>
-<br>
-</div>
 
-<div>
- 
-    <a href="{{ resource.url }}">
-      &bull; {{ resource.title }}
-    </a>
-    <div style="margin-top:30px"></div>
- 
 </div>
 
 <ul>
