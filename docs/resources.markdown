@@ -10,9 +10,6 @@ permalink: /research-resources/
 
 ## Publication Resources
 
-
-</div>
-
 <ul>
   <li>
     Geographic variation in long-term health outcomes following myocardial infarction in England. C  Sturley, T del Toro, JA Batty, E Booth, M Hall. Heart [in press May 2026]. Doi: 10.1136/heartjnl-2025-327671
