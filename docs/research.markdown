@@ -94,6 +94,6 @@ This personal fellowship supported Dr Marlous Hall's research into healthcare ut
 
 - Batty, J.A. and Hall, M. (2023). *Trends in ACEi and ARB expenditure: compelling case for competition in generic drug markets*. **International Journal of Cardiology**, 370.
 
-- Hall, M. *Many heart attack patients prescribed beta-blockers may not benefit*. **The Conversation**.
+- Hall, M. (2017) *Many heart attack patients prescribed beta-blockers may not benefit*. **The Conversation**. https://doi.org/10.64628/AB.gqnn5sj9t
 
 - Hall, M. *Investigating the national uptake of emergency operations for heart attack*. **Understanding Patient Data** Case Study.
